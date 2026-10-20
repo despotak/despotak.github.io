@@ -1,0 +1,7 @@
+# despotak.github.io
+
+> GitHub Pages sites published by despotak (https://github.com/despotak). Each project lives under its own path and has its own llms.txt with the files, columns, units, caveats and licences.
+
+## Datasets
+
+- [Greek fuel prices](https://despotak.github.io/greek-fuel-prices/llms.txt): daily pump prices for every Greek prefecture since March 2017, Greek refinery prices, the EU Weekly Oil Bulletin with tax rates for every EU country since 2005, and a two-week outlook. Parquet, CSV and JSON, rebuilt three times a day. Source and code: https://github.com/despotak/greek-fuel-prices
